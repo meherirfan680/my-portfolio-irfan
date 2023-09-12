@@ -1,0 +1,27 @@
+# Ignore Node.js related files and directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore built Next.js output
+/.next/
+/out/
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore development build files
+*.iml
+*.log
+*.swp
+*.DS_Store
+
+# Ignore IDE-specific files (for example, VSCode)
+.idea/
+.vscode/
+
+# Ignore system files and folders
+.DS_Store
+Thumbs.db
