@@ -300,59 +300,29 @@ const About = () => {
               <div className="chart-bar">
                 <span
                   className="item-progress"
-                  data-percent={85}
-                  style={{ width: "85%" }}
+                  data-percent={40}
+                  style={{ width: "40%" }}
                 />
-                <span className="percent" style={{ right: "calc(15% - 21px)" }}>
-                  85%
+                <span className="percent" style={{ right: "calc(60% - 21px)" }}>
+                  40%
                   <b className="arrow" />
                 </span>
               </div>
             </div>
             {/* Skill Bar Ends */}
-            <div className="col-12 col-sm-6 col-md-4">
-              <span className="skill-text">next js</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={80}
-                  style={{ width: "80%" }}
-                />
-                <span className="percent" style={{ right: "calc(20% - 21px)" }}>
-                  80%
-                  <b className="arrow" />
-                </span>
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-4">
-              <span className="skill-text">Node JS</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={70}
-                  style={{ width: "70%" }}
-                />
-                <span className="percent" style={{ right: "calc(30% - 21px)" }}>
-                  70%
-                  <b className="arrow" />
-                </span>
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
-
+          
+           
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-4">
               <span className="skill-text">strapi</span>
               <div className="chart-bar">
                 <span
                   className="item-progress"
-                  data-percent={80}
-                  style={{ width: "80%" }}
+                  data-percent={20}
+                  style={{ width: "20%" }}
                 />
-                <span className="percent" style={{ right: "calc(20% - 21px)" }}>
-                  80%
+                <span className="percent" style={{ right: "calc(80% - 21px)" }}>
+                  20%
                   <b className="arrow" />
                 </span>
               </div>
@@ -380,11 +350,11 @@ const About = () => {
               <div className="chart-bar">
                 <span
                   className="item-progress"
-                  data-percent={70}
-                  style={{ width: "70%" }}
+                  data-percent={50}
+                  style={{ width: "50%" }}
                 />
-                <span className="percent" style={{ right: "calc(30% - 21px)" }}>
-                  70%
+                <span className="percent" style={{ right: "calc(50% - 21px)" }}>
+                  50%
                   <b className="arrow" />
                 </span>
               </div>
@@ -412,32 +382,17 @@ const About = () => {
               <div className="chart-bar">
                 <span
                   className="item-progress"
-                  data-percent={90}
-                  style={{ width: "90%" }}
+                  data-percent={65}
+                  style={{ width: "65%" }}
                 />
-                <span className="percent" style={{ right: "calc(10% - 21px)" }}>
-                  90%
+                <span className="percent" style={{ right: "calc(35% - 21px)" }}>
+                  65%
                   <b className="arrow" />
                 </span>
               </div>
             </div>
             {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-4">
-              <span className="skill-text">digital marketing</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={70}
-                  style={{ width: "70%" }}
-                />
-                <span className="percent" style={{ right: "calc(30% - 21px)" }}>
-                  70%
-                  <b className="arrow" />
-                </span>
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
+           
           </div>
           {/* Skills Starts */}
         </div>

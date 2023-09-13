@@ -50,7 +50,7 @@ function MyApp({ Component, pageProps }) {
         />
         <link rel="stylesheet" type="text/css" href="css/styleswitcher.css" />
         <title>
-          AA Muhammadi – Abdullah Amanat Muhammadi | Official Website
+          Muhammad Irfan Amanat Ali Portfolio | Official Website
         </title>
       </Head>
       <NavState>
