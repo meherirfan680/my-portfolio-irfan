@@ -28,15 +28,12 @@ const Home = ({ leftImg, video, leftImgSrc }) => {
           />
         )}
         <div className="main-text" id="selector">
-          <h3>Asslamu Alaikum !</h3>
+          <h3>Welcome</h3>
           <AnimationText />
           <p>
-            {`I'm`} an experienced digital marketer and web developer with over
-            eight years of expertise in SEO, web development and blogginng. I
-            specialize in assisting clients in creating web applications,
-            driving organic traffic to their websites through Google, and
-            offering services such as content writing, graphic design, and
-            social media marketing.
+            {`I'm`} expertise in SEO and blogging is evident in his ability to drive organic traffic and engage audiences effectively. I am in-depth knowledge of search engine optimization strategies, content creation, and digital marketing tactics has contributed to the success of numerous online endeavors.
+
+My journey into the realm of React development reflects his determination to diversify his skill portfolio.
           </p>
           <div className="call-to-actions-home">
             <div className="text-left">

@@ -40,13 +40,13 @@ const About = () => {
                 <li>
                   <h6>
                     <span className="font-weight-600">First Name</span>
-                    Abdullah Amanat
+                    Myhammad
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Last Name</span>
-                    Muhammadi
+                    Irfan
                   </h6>
                 </li>
                 <li>
@@ -62,7 +62,7 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Experience</span>8 years
+                    <span className="font-weight-600">Experience</span>3 years
                   </h6>
                 </li>
               </ul>
@@ -83,14 +83,13 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Phone</span>+92 334
-                    9955239
+                    <span className="font-weight-600">Phone</span>+92 3204110514
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Email</span>
-                    aa.muhammadi17@gmail.com
+                    meherirfan680@gmail.com
                   </h6>
                 </li>
                 <li>
